@@ -1,0 +1,13 @@
+td, th{
+	border: black 3px solid;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	background: lightcoral;
+}
+
+body {
+	background: lightsalmon;
+}
